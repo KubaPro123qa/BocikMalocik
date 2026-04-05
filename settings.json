@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maslosmp.aternos.me:35771",
+    "ip": "maslosmp.aternos.me",
     "port": 35771,
     "version": "",
     "try-creative": false
